@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <MicroGear.h>
 
-const char* ssid     = "your_name_ssid";
-const char* password = "your_password_ssid";
+const char* ssid     = "CMDH@LannaEx";
+const char* password = "IloveCMDH";
 
 #define APPID   "20scoopsSmartHome"
 #define KEY     "9m6JZvFwYd42YWR"
